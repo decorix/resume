@@ -14,3 +14,15 @@ a.text {
     text-decoration: none;
     color: #666;
 }
+
+#aproject:active,
+#aproject:hover,
+#aproject {
+    text-decoration: none;
+    color: purple;
+}
+
+
+/* #butproject {
+    width: 280px;
+} */
